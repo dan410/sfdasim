@@ -1,0 +1,6 @@
+export(plot_curves)
+export(plot_data)
+export(sim_fda_curves)
+export(sim_fda_data)
+export(sim_sfda_curves)
+export(sim_sfda_data)

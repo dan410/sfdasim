@@ -1,0 +1,12 @@
+Package: sfdasim
+Type: Package
+Title: Simulates spatially dependent functional curves and data
+Version: 0.4
+Date: 2014-08-06
+Author: Daniel Fortin
+Maintainer: Daniel Fortin <dan410@gmail.com>
+Description: Simulates spatially dependent functional curves and data.
+License: MIT
+Depends:
+    geoR,
+    plyr
